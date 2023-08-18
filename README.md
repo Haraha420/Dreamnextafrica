@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
-  <title>Dream Next Africa Ltd</title>
+  <title>Dream Next Africa </title>
 </head>
 <body>
   <header>
@@ -22,7 +22,7 @@
   
   <section id="home">
     <div class="hero">
-      <h1>Welcome to Dream Next Africa Ltd</h1>
+      <h1>Welcome to Dream Next Africa </h1>
       <p>Your Vision, Our Expertise</p>
       <a href="#services" class="cta-button">Explore Our Services</a>
     </div>
